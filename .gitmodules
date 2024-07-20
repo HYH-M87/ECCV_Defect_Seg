@@ -1,0 +1,3 @@
+[submodule "dependencies/mmsegmentation"]
+	path = dependencies/mmsegmentation
+	url = https://github.com/HYH-M87/mmsegmentation.git
